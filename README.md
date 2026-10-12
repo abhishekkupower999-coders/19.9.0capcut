@@ -1,4 +1,4 @@
 {  
-   "LockApp": false,
-   "Link": "https://t.me/AZEEDITINGZONE"
+  "LockApp": false,
+  "Link": "https://t.me/AZEEDITINGZONE"
 }
